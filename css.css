@@ -1,7 +1,7 @@
 body {
-    width: 100%;
+    max-width: 1280;
     height: auto;
-    background-image: url('https://packmaan7144.github.io/longboardd/base.jpg');
+    background-image: url('base.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: contain;
