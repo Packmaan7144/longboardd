@@ -4,7 +4,8 @@ body {
     background-image: url('base.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: contain;
+    background-size: 100vh;
+
 
 }
 
